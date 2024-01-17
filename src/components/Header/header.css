@@ -1,0 +1,20 @@
+.head{
+    width: calc(100% - 10px);
+    height: 100px;
+    align-items: center;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.CustomFact{
+    width: 400px;
+    height: 80px;
+    border-radius: 3%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
